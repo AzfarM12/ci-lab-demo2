@@ -1,0 +1,21 @@
+{
+  "name": "ci-lab-demo2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+ "scripts": {
+  "test": "node test.js"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AzfarM12/ci-lab-demo2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/AzfarM12/ci-lab-demo2/issues"
+  },
+  "homepage": "https://github.com/AzfarM12/ci-lab-demo2#readme"
+}
